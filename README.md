@@ -1,4 +1,4 @@
-# EV3Dev-USB-Connection
+# EV3Dev-USB-Connection (WIP)
 Control the EV3 Brick installed with ev3dev over an USB Client-Server-Connection.
 
 # Windows Version
@@ -15,6 +15,7 @@ The repository contains only the instructions for establishing a connection via 
 * EV3 Brick
 * USB cable (EV3 <-> PC connection)
 * Ubuntu LTS 20.04 (only tested on this)
+* Python 3 installed
 * flashed SD card with the ev3dev OS (https://www.ev3dev.org/downloads/)
 * a sensor or motor for testing 
 
