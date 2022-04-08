@@ -37,3 +37,6 @@ Afterwards the IP address of the EV3 can be queried in the same menu level in th
 ## Development 
 
 For development, Visual Studio Code with the **ev3dev-browser** extension is recommended, which is used to easily deploy the created scripts to the EV3.
+
+
+... => Work in progress
